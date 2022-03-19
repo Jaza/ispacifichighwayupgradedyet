@@ -1,0 +1,5 @@
+languageCode = "en"
+title = "Is Pacific Highway Upgraded Yet?"
+theme = "dimension"
+disableKinds = ["RSS", "taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]

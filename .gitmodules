@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-color-your-world"]
+	path = themes/hugo-theme-color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
+[submodule "themes/minimal"]
+	path = themes/minimal
+	url = https://github.com/calintat/minimal.git
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
